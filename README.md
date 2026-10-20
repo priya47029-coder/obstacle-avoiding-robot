@@ -41,5 +41,5 @@ Arduino C/C++, Tinkercad Circuits, GitHub.
 Priya
 
 ## Project Simulation
-Add your Tinkercad circuit sharing link here.
+https://www.tinkercad.com/things/9akJnvI4hXT-obstacle-avoiding-robot-codeorbit-internship
 
